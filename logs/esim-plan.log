@@ -1,0 +1,15 @@
+2025-05-07 16:22:06,850 - [INFO] - Application started
+2025-05-07 16:22:06,859 - [INFO] - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-07 16:22:06,862 - [INFO] - Added job "check_and_send_request" to job store "default"
+2025-05-07 16:22:06,863 - [INFO] - Scheduler started
+2025-05-07 16:22:11,895 - [INFO] - Running job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:16 WAT)" (scheduled at 2025-05-07 16:22:11.859159+01:00)
+2025-05-07 16:22:16,155 - [INFO] - Job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:16 WAT)" executed successfully
+2025-05-07 16:22:16,994 - [INFO] - Running job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:21 WAT)" (scheduled at 2025-05-07 16:22:16.859159+01:00)
+2025-05-07 16:22:17,787 - [INFO] - Job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:21 WAT)" executed successfully
+2025-05-07 16:22:21,944 - [INFO] - Running job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:26 WAT)" (scheduled at 2025-05-07 16:22:21.859159+01:00)
+2025-05-07 16:22:22,711 - [INFO] - Job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:26 WAT)" executed successfully
+2025-05-07 16:22:26,917 - [INFO] - Running job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:31 WAT)" (scheduled at 2025-05-07 16:22:26.859159+01:00)
+2025-05-07 16:22:27,727 - [INFO] - Job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:31 WAT)" executed successfully
+2025-05-07 16:22:31,914 - [INFO] - Running job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:36 WAT)" (scheduled at 2025-05-07 16:22:31.859159+01:00)
+2025-05-07 16:22:32,525 - [INFO] - Job "check_and_send_request (trigger: interval[0:00:05], next run at: 2025-05-07 16:22:36 WAT)" executed successfully
+2025-05-07 16:22:32,526 - [INFO] - Scheduler has been shut down

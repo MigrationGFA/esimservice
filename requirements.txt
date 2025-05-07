@@ -1,0 +1,7 @@
+requests
+sqlalchemy
+apscheduler
+psycopg2
+mysql-connector-python==8.0.29
+pytz
+jinja2
